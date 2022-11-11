@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{031B0AF2-06B0-4925-9AF4-6B13EA7986A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{571153D2-1770-4FC2-9870-626A1FBF9DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031B0AF2-06B0-4925-9AF4-6B13EA7986A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031B0AF2-06B0-4925-9AF4-6B13EA7986A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031B0AF2-06B0-4925-9AF4-6B13EA7986A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031B0AF2-06B0-4925-9AF4-6B13EA7986A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571153D2-1770-4FC2-9870-626A1FBF9DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571153D2-1770-4FC2-9870-626A1FBF9DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571153D2-1770-4FC2-9870-626A1FBF9DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571153D2-1770-4FC2-9870-626A1FBF9DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
